@@ -1,0 +1,9 @@
+autogen-agentchat==0.7.1
+autogen-ext[openai]==0.7.1
+openai>=1.93
+modal==1.1.0
+fastapi[standard]
+httpx
+cryptography
+pytest
+python-dotenv
